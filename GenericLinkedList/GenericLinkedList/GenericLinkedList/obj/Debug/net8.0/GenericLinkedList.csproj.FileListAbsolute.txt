@@ -1,0 +1,15 @@
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\bin\Debug\net8.0\GenericLinkedList.exe
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\bin\Debug\net8.0\GenericLinkedList.deps.json
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\bin\Debug\net8.0\GenericLinkedList.runtimeconfig.json
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\bin\Debug\net8.0\GenericLinkedList.dll
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\bin\Debug\net8.0\GenericLinkedList.pdb
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\obj\Debug\net8.0\GenericLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\obj\Debug\net8.0\GenericLinkedList.AssemblyInfoInputs.cache
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\obj\Debug\net8.0\GenericLinkedList.AssemblyInfo.cs
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\obj\Debug\net8.0\GenericLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\obj\Debug\net8.0\GenericLinkedList.sourcelink.json
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\obj\Debug\net8.0\GenericLinkedList.dll
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\obj\Debug\net8.0\refint\GenericLinkedList.dll
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\obj\Debug\net8.0\GenericLinkedList.pdb
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\obj\Debug\net8.0\GenericLinkedList.genruntimeconfig.cache
+C:\Users\duerh\Desktop\GitHub\GenericLinkedList\GenericLinkedList\GenericLinkedList\obj\Debug\net8.0\ref\GenericLinkedList.dll
